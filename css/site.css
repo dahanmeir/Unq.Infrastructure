@@ -1,0 +1,67 @@
+﻿a[data-popup] { text-decoration: underline; }
+
+.component-selects { }
+    .component-selects.form-inline .form-group { padding: 0 10px; float: right; }
+    .component-selects.form-inline { display: inline-block; }
+        .component-selects.form-inline a.form-control { border: none; background-color: transparent; box-shadow: none; color: #fff; float: right; }
+
+.table-details { }
+    .table-details a { color: #fff; }
+
+.k-grid { margin: 0 0 20px 0; text-align: right; }
+    /*.k-grid .k-grid-content td { text-align: center;}*/
+    .k-grid tbody td { padding: .9em .6em !important; }
+    .k-grid .k-grid-header th { text-align: right; }
+        .k-grid .k-grid-header th a { text-align: right; }
+    .k-grid .k-grid-header tr:hover { background: transparent; }
+    .k-grid .k-grid-header { font-size: 0.9em; }
+    .k-grid tbody { font-size: 0.86em; }
+.GridNoHeader .k-grid-header { display: none; }
+
+.k-window { }
+    .k-window .k-header { color: #313131; }
+.k-grid-pager { display: none; }
+.k-filter-menu { direction: rtl; }
+    .k-filter-menu .k-select { right: auto; left: 0; }
+.k-grid-norecords-template { border: none; }
+
+.popup { overflow-y: auto; background-color: #fff; padding: 0; margin: 0; }
+    .popup #wrap { margin: 0 !important; }
+    .popup .mainFrame { margin: 0 !important; }
+    .popup .mainContent { padding: 0; margin: 0; }
+
+.btn { display: inline-block; }
+.block { display: block; margin-top: 7px; }
+.for_border { border: solid; border-color: white; }
+.input-group { border-radius: 4px; overflow: hidden; }
+
+.query-label { display: inline-block; margin: 0 5px 0 0; }
+.font_mudgash { font-size: larger; }
+.table-details .table-dark tbody td:first-child { width: auto; max-width: none; }
+.table-details .table-dark tbody td { text-align: center; }
+
+.number-ltr { direction: ltr; display: inline-block; }
+
+.glyphicon_white { color: white; }
+.tmunat_matzav_is_link { text-decoration: underline; text-decoration-color: white; }
+.tmunat_matzav_draw_red { background-color: red; color: white; }
+.tmunat_matzav_draw_green { background-color: green; color: white; }
+.tmunat_matzav_draw_yellow { background-color: yellow; }
+
+.field-validation-error { display: block; }
+
+.mainLogo .mainLogo_height { height: 4em; }
+.margin_top_menu { margin-top: 1em; }
+
+.titleContainer h1 { font-size: 2.2em; }
+.titleContainer { margin-top: 20px; }
+    .titleContainer .breadcrumb { padding-bottom: 0px; margin-bottom: 0px; }
+
+.input-group .input-group-addon:hover { cursor: pointer; }
+
+.form-group .control-label { text-align: center; }
+
+.milui-makom-table td { border: solid 1px #bbbaba !important; padding:10px !important; background-color:white; }
+.milui-makom-table .not_in_month { background:#c9d4dc; }
+.milui-makom-table td:hover	{ background-color:#b0a9a4 !important;  color:white; }
+.milui-makom-table td:hover a { color:white; }
