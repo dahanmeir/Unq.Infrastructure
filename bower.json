@@ -1,10 +1,9 @@
 {
   "name": "unq.infrastructure",
   "description": "Infrastructure for creating project",
-  "version":"0.0.1",
+  "version":"0.0.2",
   "main": [
-    "readme.txt",
-    "content/json1.json"
+    "js/unq.infrastructure.js"
   ],
   "authors": [
     "Unq"
