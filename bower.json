@@ -1,0 +1,15 @@
+{
+  "name": "unq.infrastructure",
+  "description": "Infrastructure for creating project",
+  "version":"0.0.1",
+  "main": [
+    "readme.txt",
+    "content/json1.json"
+  ],
+  "authors": [
+    "Unq"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": false
+}
