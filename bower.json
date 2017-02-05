@@ -1,9 +1,9 @@
 {
   "name": "unq.infrastructure",
   "description": "Infrastructure for creating project",
-  "version":"0.0.2",
+  "version":"0.0.3",
   "main": [
-    "js/unq.infrastructure.js"
+    "js/site.js"
   ],
   "authors": [
     "Unq"
